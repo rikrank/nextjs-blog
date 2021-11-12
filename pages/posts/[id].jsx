@@ -17,6 +17,8 @@ export default function Post({ postData }) {
 
       <Date dateString={postData.date} />
       <p>テストテスト</p>
+      <p>テストテスト</p>
+      <p>テストテスト</p>
     </Layout>
   );
 }
